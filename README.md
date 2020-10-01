@@ -22,5 +22,5 @@ Warzone's website is built with React. This ties in with Warzone's [TGM](https:/
 
 ### Developer Notes
 
-- We use [Prettier](https://prettier.io/). If you want to setup Prettier locally make sure to use our `.prettierrc`. This is optional as we have a GitHub bot that formats files if they're not already formatted correctly.
+- We use [Prettier](https://prettier.io/). If you want to setup Prettier locally make sure to use our `.prettierrc`. This is optional as we have a gitHub bot that formats files if they're not already formatted correctly.
 - The site was not built with self-hosting in mind. This means important links like the Discord server and store are hardcoded at the moment.
